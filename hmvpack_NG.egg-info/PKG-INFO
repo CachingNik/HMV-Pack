@@ -1,8 +1,8 @@
 Metadata-Version: 2.1
 Name: hmvpack-NG
-Version: 0.0.2
+Version: 0.0.3
 Summary: Handling missing values in python
-Home-page: https://github.com/CachingNik/HMVPack
+Home-page: https://github.com/CachingNik/HMV-Pack
 Author: Nikhil Gupta
 Author-email: ngupta_be17@thapar.edu
 License: UNKNOWN
